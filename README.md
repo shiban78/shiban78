@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiban78" alt="shiban78" /></a> </p>
 
-- 🔭 I’m currently working on **Beach Weather Forecasting Application**
+- 🔭 I’m currently working on **Beach Weather Forecasting Application And Gym posture Detection**
 
 - 🌱 I’m currently learning **MERN**
 
